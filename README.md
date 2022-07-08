@@ -1,5 +1,5 @@
 # Linux MCServer Bash Backup Script
-Script to automatically backup folders. In the script, an example of a copy of Minecraft servers.
+Script for automatic backup of MC Server folder. The script can be modified and used to backup other resources.
 
 ```
 sudo timedatectl set-timezone Europe/Warsaw
