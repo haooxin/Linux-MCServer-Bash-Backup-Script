@@ -1,5 +1,5 @@
 # Linux MCServer Bash Backup Script
-Script for automatic backup of MC Server folder. The script can be modified and used to backup other resources.
+Script for automatic backup of MCServer folder. The script can be modified and used to backup other resources.
 
 ```
 sudo timedatectl set-timezone Europe/Warsaw
